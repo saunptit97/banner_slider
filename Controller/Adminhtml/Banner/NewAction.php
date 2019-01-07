@@ -1,5 +1,5 @@
 <?php
-namespace Mageplaza\GiftCard\Controller\Adminhtml\Code;
+namespace Roger\BannerSlider\Controller\Adminhtml\Banner;
 
 class NewAction extends \Magento\Backend\App\Action
 {
